@@ -1,11 +1,12 @@
 # AgriGuide Final Dataset
 
 This repository contains the final AgriGuide fertilizer recommendation dataset files used for the EE209AS evaluation.
+The final graded results include recommendations from two model families: Gemini (`gemini-pro`) and GPT (`gpt-5.5`).
 
 ## Files
 
 - `fertilizer-prediction-dataset.csv`: source fertilizer prediction dataset.
-- `fertilizer-result-final-graded-split-0-100.csv`: final merged graded results for the full split.
+- `fertilizer-result-final-graded-split-0-100.csv`: final merged graded results for the full split, including Gemini and GPT model recommendations.
 - `grading-rubric.md`: human grading rubric used to score model fertilizer recommendations.
 - `LICENSE.md`: repository license.
 
